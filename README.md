@@ -31,6 +31,8 @@ film yang sedang tayang, film yang memiliki rate tertinggi, dan film yang akan t
 User Interface yang menarik dan tidak membosankan, mudah digunakan, dapat menampilkan film-film terbaru, film populer, film yang memiliki rating tertinggi, dan film-film yang akan tayang.<br>
 Terdapat detail juga sehingga bisa menampilkan trailer film yang ada di detail.
 ## Screenshot dari Aplikasi :
+![screenshot_20170613-090917](https://user-images.githubusercontent.com/22055242/27087582-92456b72-507f-11e7-8954-3eeb03f21afc.png)
+<br>
 ![screenshot_20170613-090910](https://user-images.githubusercontent.com/22055242/27086870-b48611de-507d-11e7-9359-9282567aa233.png)
 <br>
 ![screenshot_20170613-090922](https://user-images.githubusercontent.com/22055242/27086882-b6cdcf22-507d-11e7-9c60-7afd54633167.png)
