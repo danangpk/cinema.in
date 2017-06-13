@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.privateassignment.xirpl509.cinemain.Service;
+package id.sch.smktelkom_mlg.privateassignment.xirpl509.cinemain;
 
 /**
  * Created by King Pin on 6/13/2017.

@@ -52,7 +52,6 @@ import id.sch.smktelkom_mlg.privateassignment.xirpl509.cinemain.Service.VolleyCo
 public class MainActivity extends AppCompatActivity {
 
     GridView gv;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -71,11 +70,14 @@ public class MainActivity extends AppCompatActivity {
                         "Rating Tertinggi",
                         "Now Playing",
                         "Upcoming Movies",
+                        "Tersimpan",
                 }));
 
         spinner.setOnItemSelectedListener(new OnItemSelectedListener() {
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+                Fragment fragments;
+
                 if (position == 0) {
                     FetchMovies fetchMovies = new FetchMovies();
                     String url = "http://api.themoviedb.org/3/movie/popular";
@@ -92,6 +94,8 @@ public class MainActivity extends AppCompatActivity {
                     FetchMovies fetchMovies = new FetchMovies();
                     String url = "http://api.themoviedb.org/3/movie/upcoming";
                     fetchMovies.execute(url);
+                } else if (position == 4) {
+                    startActivity(new Intent(MainActivity.this, SavedActivity.class));
                 }
 
                 getSupportFragmentManager().beginTransaction()
