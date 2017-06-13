@@ -2,7 +2,7 @@
 Cinema.In <br>
 
 ## Link APK 
-https://drive.google.com/file/d/0B2gBXRt7n3PZT2xnV19EMWhtZFE/view?usp=sharing <br>
+https://www.dropbox.com/s/37sntkb58aei35j/app-debug.apk?dl=0 <br>
 
 ## Identitas Siswa
 Nama lengkap : Danang Prasetya Kalingga
@@ -18,7 +18,7 @@ https://www.themoviedb.org/documentation/api <br>
 Action Spinner <br>
 
 ## Library dari Local Database yang digunakan pada Aplikasi :
-SQLite <br>
+SQLite, Volley, Glide <br>
 
 ## Deskripsi singkat dari aplikasi minimal 200 karakter :
 Aplikasi ini merupakan aplikasi yang menggunakan API untuk menampilkan data tentang film yang sekarang tayang, populer, 
@@ -31,16 +31,14 @@ film yang sedang tayang, film yang memiliki rate tertinggi, dan film yang akan t
 User Interface yang menarik dan tidak membosankan, mudah digunakan, dapat menampilkan film-film terbaru, film populer, film yang memiliki rating tertinggi, dan film-film yang akan tayang.<br>
 Terdapat detail juga sehingga bisa menampilkan trailer film yang ada di detail.
 ## Screenshot dari Aplikasi :
-Now Playing <br>
-![1](https://user-images.githubusercontent.com/22055242/27064307-f421b6de-5020-11e7-923e-1f9630c01e91.jpeg)
+![screenshot_20170613-090910](https://user-images.githubusercontent.com/22055242/27086870-b48611de-507d-11e7-9359-9282567aa233.png)
 <br>
-![2](https://user-images.githubusercontent.com/22055242/27064311-f435fc2a-5020-11e7-8e85-977dcd5c698e.jpeg)
+![screenshot_20170613-090922](https://user-images.githubusercontent.com/22055242/27086882-b6cdcf22-507d-11e7-9c60-7afd54633167.png)
 <br>
-![3](https://user-images.githubusercontent.com/22055242/27064308-f42a1f54-5020-11e7-880e-7b71f9c7ba73.jpeg)
+![screenshot_20170613-090927](https://user-images.githubusercontent.com/22055242/27086874-b4d04132-507d-11e7-8d2c-f079b0c943a4.png)
 <br>
-![4](https://user-images.githubusercontent.com/22055242/27064309-f42cafda-5020-11e7-95bd-cc471558d661.jpeg)
+![screenshot_20170613-090933](https://user-images.githubusercontent.com/22055242/27086871-b493b208-507d-11e7-94f9-7b0165454402.png)
 <br>
-![5](https://user-images.githubusercontent.com/22055242/27064310-f4331802-5020-11e7-9b6e-989c9fa550c4.jpeg)
+![screenshot_20170613-090941](https://user-images.githubusercontent.com/22055242/27086872-b4943cfa-507d-11e7-85f8-9df7ec9c8d9d.png)
 <br>
-
-
+![screenshot_20170613-090957](https://user-images.githubusercontent.com/22055242/27086873-b4c90052-507d-11e7-8994-2741620fbc0e.png)
